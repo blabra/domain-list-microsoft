@@ -5,6 +5,9 @@ include:microsoft-dev
 include:msn
 include:onedrive
 include:xbox
+include:docker
+include:cloudflare
+include:gitlab
 
 # All .microsoft domains
 microsoft
